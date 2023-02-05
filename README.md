@@ -6,4 +6,4 @@ I found this article interesting because it talks about the real-life effects of
 
 # What I found interesting: 
 ## Name of the student: Lukelo Luoga:
-I found this article very interesting as Artifiial intelligence is continue to grow and bring more impacts to day to day activies of human life. I believe that the solution to this emerging AI technology is not to ban it among students. Ratherm it will be important for educational instutions to find a balance between allowing students to utilize the new emerging AI technology and maintaining academic intellectual curisiosity to maximum ability.   
+I found this article very interesting as Artifiial intelligence continues to grow and bring more impacts to day-to-day activies of human life. I believe that the solution to this emerging AI technology is not to ban it among educational institutions. Instead, it will be important for educational instutions to find a balance between allowing students to utilize the new emerging AI technology and maintaining academic intellectual curisiosity to maximum ability.   
