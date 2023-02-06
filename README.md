@@ -8,3 +8,5 @@ I found this article interesting because it talks about the real-life effects of
 
 Interesting article and insights! I thought ChatGPT is a great convenient tool to get answers online. It is a shame that people have used it to cheat. An anti-cheat tool would be hard to implement since they are not even sure how ChatGPT works, but hopefully schools should advocate for ChapGPT as a educational tool that should be used with honesty.
 
+###### Lianna Poblete:
+While its nice that they are trying to prevent ChatGPT from being used as a tool to cheat, unfortunately I believe that this is a problem that is too complex to be solved. As of right now, ChatGPT has a lot of flaws that should be addressed involving the accuracy of its answers. Knowing this, I have very high doubts that the cheat detection tool is advanced enough to make a significant impact on the use of ChatGPT for students. It seems like the most effective way to prevent cheating would be to compare student answers to the answers given by ChatGPT. But that is something that doesn't involve changing the way ChatGPT works.
